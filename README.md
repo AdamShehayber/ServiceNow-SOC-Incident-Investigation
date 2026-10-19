@@ -54,3 +54,11 @@ Documented the investigation in ServiceNow and recommended escalation, independe
 ServiceNow | SOC Alert Triage | Phishing Analysis | Business Email Compromise | Email Header Analysis | Incident Documentation | Security Log Review
 
 *This project was completed in a simulated SOC training environment.*
+
+## Investigation Evidence
+
+The following screenshots document my hands-on investigation of incident CLD-0237 in a simulated ServiceNow SOC environment. I reviewed the reported alert, compared legitimate and suspicious vendor emails, examined the vendor security notification, and analyzed proxy and sign-in logs to support my verdict.
+
+### Evidence Screenshots
+
+Screenshots are available in the [screenshots folder](./screenshots/).
