@@ -62,3 +62,30 @@ The following screenshots document my hands-on investigation of incident CLD-023
 ### Evidence Screenshots
 
 Screenshots are available in the [screenshots folder](./screenshots/).
+
+
+## Investigation Evidence Screenshots
+
+The following screenshots document the evidence I reviewed during my investigation of CLD-0237 in a simulated SOC environment.
+
+### 1. Legitimate Vendor Email
+![Legitimate Bexley correspondence](screenshots/Screenshot%202026-10-19%20144237.png)
+
+### 2. Suspicious Payment Redirection Email
+![Suspicious bank account change request](screenshots/Screenshot%202026-10-19%20144259.png)
+
+### 3. Vendor Security Notification
+![Bexley security advisory and indicators](screenshots/Screenshot%202026-10-19%20144342.png)
+
+### 4. Proxy Log Investigation
+![Proxy traffic reviewed](screenshots/Screenshot%202026-10-19%20144415.png)
+
+### 5. Vendor Threat Intelligence
+![Vendor compromise indicators](screenshots/Screenshot%202026-10-19%20144455.png)
+
+### 6. Week 1 Sign-In Log Review
+![Week 1 sign-in records](screenshots/Screenshot%202026-10-19%20144513.png)
+
+### 7. Week 2 Sign-In Log Review
+![Week 2 sign-in records](screenshots/Screenshot%202026-10-19%20144534.png)
+  
